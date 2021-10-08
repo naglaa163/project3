@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    
+    flex: 2;
+    background-color: blueviolet;
+   
+}
+.container {
+    background-color: rgb(250, 242, 242);
+    
+}
+
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+p {
+    font: 1em sans-serif cornflowerblue;;
+    
+    margin: 1rem;
+
+}
+
